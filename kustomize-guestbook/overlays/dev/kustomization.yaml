@@ -1,4 +1,0 @@
-bases:
-  - ../../base
-patchesStrategicMerge:
-  - guestbook-ui-patch-deployment.yaml
