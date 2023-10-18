@@ -1,5 +1,8 @@
 namePrefix: kustomize-
-replicas: [1,3,6]
+replicas:
+- 1
+- 3
+- 6
 
 resources:
 - guestbook-ui-deployment.yaml
